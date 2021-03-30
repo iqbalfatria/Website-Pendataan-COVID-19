@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\laravel",
+    "\\laravel\\resources",
+    "\\laravel\\resources\\views",
+    "\\laravel\\resources\\views\\admin",
+    "\\laravel\\resources\\views\\template",
+    "\\laravel\\resources\\views\\template\\template_login",
+    "\\laravel\\resources\\views\\template\\template_pendataan"
+  ],
+  "SelectedNode": "\\laravel\\resources\\views\\template\\template_pendataan\\app.blade.php",
+  "PreviewInSolutionExplorer": false
+}
